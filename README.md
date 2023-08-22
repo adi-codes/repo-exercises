@@ -1,1 +1,6 @@
-# repo-exercises
+Adi
+Chennai
+Meta
+:wq
+~
+`.
